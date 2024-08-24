@@ -1,2 +1,6 @@
 #!/usr/bin/env node
-console.log('¡Bienvenido a Brain Games')
+
+import ReadLine from "../src/cli";
+
+console.log('¡Bienvenido a Brain Games');
+ReadLine();
