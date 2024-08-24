@@ -1,0 +1,16 @@
+{
+  "name": "@codica/node",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/Mendoza-Fabrizio/fullstack-project-98/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Mendoza-Fabrizio/fullstack-project-98/actions)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/brain-games.js",
+    "brain-games": "node bin/brain-games.js"
+  },
+  "bin":{
+    "brain-games": "bin/brain-games.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
